@@ -1,0 +1,84 @@
+{
+      
+    
+      "product" : "Phone",
+      "title" : "Apple iPhone 11",
+      "brand" : "Apple",
+      "generalspecs":"6433bacdeba6ee092a1a14fe",
+      "varient" : [
+          {
+              "type" : "64 GB",
+              "productDetails" : {
+                  "category" : "new",
+                  "isRefurbshised" : "no",
+                  "isDemoUnit" : "yes",
+                  "price" : 250.0,
+                  "condition" : "fair",
+                  "conditionDetails" : [
+                      "scraches",
+                      "display broken",
+                      "headset not connecting"
+                  ],
+                  "batteryhealth" : "100%",
+                  "color" : "white",
+                  "img-main" : [
+                      "main/img1.png",
+                      "main/img2.png",
+                      "main/img3.png"
+                  ],
+                  "img-thunmbnail" : [
+                      "thumbnail/img1.png",
+                      "thumbnail/img2.png",
+                      "thumbnail/img3.png"
+                  ],
+                  "ratings" : "3",
+                  "offers" : [
+  
+                  ],
+                  "Emioption" : [
+  
+                  ],
+                  "qty" : 2.0
+              }
+          },
+          {
+              "type" : "128 GB",
+              "productDetails" : {
+                  "category" : "new",
+                  "isRefurbshised" : "no",
+                  "isDemoUnit" : "yes",
+                  "price" : 280.0,
+                  "condition" : "fair",
+                  "conditionDetails" : [
+                      "scraches",
+                      "display broken",
+                      "headset not connecting"
+                  ],
+                  "batteryhealth" : "90%",
+                  "color" : "black",
+                  "img-main" : [
+                      "main/img1.png",
+                      "main/img2.png",
+                      "main/img3.png"
+                  ],
+                  "img-thunmbnail" : [
+                      "thumbnail/img1.png",
+                      "thumbnail/img2.png",
+                      "thumbnail/img3.png"
+                  ],
+                  "ratings" : "3",
+                  "offers" : [
+  
+                  ],
+                  "Emioption" : [
+  
+                  ],
+                  "qty" : 2.0
+              }
+          }
+      ],
+      "reviews" : [],
+      "updatedby" : 1.0
+    
+  
+}
