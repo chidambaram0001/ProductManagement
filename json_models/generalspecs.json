@@ -1,0 +1,19 @@
+{
+    
+    "name" : "iphone 7",
+    "camera" : {
+
+    },
+    "disply" : {
+        "screensize" : "3.50",
+        "resolution" : "100000 X 10000"
+    },
+    "general" : {
+        "Brand" : "Apple",
+        "releaseDate" : "june 2007",
+        "Removablebattery" : "yes"
+    },
+    "hardwareCamera" : {
+
+    }
+}
