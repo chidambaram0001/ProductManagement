@@ -1,0 +1,593 @@
+[
+    {
+        "varient": [],
+        "_id": "642d5e8452ea2abfaca7ae2a",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642d5e8452ea2abfaca7ae28",
+            "name": "tezt",
+            "__v": 0
+        },
+        "__v": 0
+    },
+    {
+        "_id": "642d651fcc91ce9a6983ecf1",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642d651fcc91ce9a6983ecef",
+            "name": "tezt",
+            "__v": 0
+        },
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "642d66d48ccfd923bc40199f",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642d65e88ccfd923bc40199c",
+            "name": "Manually Updated"
+        },
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "642ea92b4754a27d879025f5",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642ea92b4754a27d879025f2",
+            "name": "tezt",
+            "__v": 0
+        },
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "642eafb54754a27d879025fe",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642eafb54754a27d879025fb",
+            "name": "tezt",
+            "__v": 0
+        },
+        "reviews": [],
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "642eb79fc19ee2a0f547c8b5",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642eb79fc19ee2a0f547c8b1",
+            "name": "tezt",
+            "__v": 0
+        },
+        "reviews": [
+            {
+                "_id": "642eb79fc19ee2a0f547c8b2",
+                "username": "chidhu",
+                "comments": "good phone, had a great customer experience",
+                "likes": 0,
+                "reply": [
+                    1,
+                    2
+                ],
+                "__v": 0
+            }
+        ],
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "642eb7ff62694f84f59e7960",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642eb7ff62694f84f59e795c",
+            "name": "tezt",
+            "__v": 0
+        },
+        "reviews": [
+            {
+                "_id": "642eb7ff62694f84f59e795d",
+                "username": "chidhu",
+                "comments": "good phone, had a great customer experience",
+                "likes": 0,
+                "reply": [
+                    1,
+                    2
+                ],
+                "__v": 0
+            }
+        ],
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "642eb837c00dd69e60e7fdea",
+        "product": "Phone",
+        "title": "Apple iPhone 11",
+        "brand": "Apple",
+        "updatedby": 1,
+        "generalspecs": {
+            "_id": "642eb837c00dd69e60e7fde6",
+            "name": "tezt",
+            "__v": 0
+        },
+        "reviews": [
+            {
+                "_id": "642eb837c00dd69e60e7fde7",
+                "username": "chidhu",
+                "comments": "good phone, had a great customer experience",
+                "likes": 0,
+                "reply": [
+                    1,
+                    2
+                ],
+                "__v": 0
+            }
+        ],
+        "varient": [
+            {
+                "type": "64 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 250,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "100%",
+                    "color": "white",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            },
+            {
+                "type": "128 GB",
+                "productDetails": {
+                    "category": "new",
+                    "isRefurbshised": "no",
+                    "isDemoUnit": "yes",
+                    "price": 280,
+                    "condition": "fair",
+                    "conditionDetails": [
+                        "scraches",
+                        "display broken",
+                        "headset not connecting"
+                    ],
+                    "batteryhealth": "90%",
+                    "color": "black",
+                    "img-main": [
+                        "main/img1.png",
+                        "main/img2.png",
+                        "main/img3.png"
+                    ],
+                    "img-thunmbnail": [
+                        "thumbnail/img1.png",
+                        "thumbnail/img2.png",
+                        "thumbnail/img3.png"
+                    ],
+                    "ratings": "3",
+                    "offers": [],
+                    "Emioption": [],
+                    "qty": 2
+                }
+            }
+        ],
+        "__v": 0
+    }
+]
